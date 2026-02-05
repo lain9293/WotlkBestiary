@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: WotlkBestiary
+## Notes: Shows NPC abilities in tooltips
+## Author: lain9293
+## Version: 1.0
+
+Bestiary.lua
